@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<JScopeProject>
+    <FileVersion major="1" minor="1" />
+    <Project>
+        <Configuration>
+            <JLink>
+                <Options IsRTTSession="0" IsRTTWithTimeStamp="1" SamplingPeriod="1000" Connection="1" SerialNo="0" IP="" TargetDevice="TLE9854QX" TargetInterface="SWD" InterfaceSpeed="4000" />
+            </JLink>
+            <ElfFile Name="C:\Users\wyatt\Desktop\embed\anti-rtos-mosfer_2021_03_22 v0.20\Objects\project_creattest.axf" />
+            <DataFile Name="" />
+            <RawFile Name="" />
+            <Scope>
+                <Options TimeResolutionUs="200000" />
+            </Scope>
+        </Configuration>
+        <Windows>
+            <Graph Show="1" />
+            <Watch Show="1" />
+        </Windows>
+        <SelectedSymbols>
+            <Symbol>
+                <Options Name="filterc" Address="0x180000D2" Type="ushort" TypeID="7" Size="2" GraphColorRed="255" GraphColorGreen="215" GraphColorBlue="0" YMinSampled="0" YMaxSampled="580" YAvgSampled="10" Offset="4" ShowInGraph="1" YOffset="200" IsAutoConfig="1" YResolution="200" MaxValue="1114" File="wyattEdit\SRC\Speed_Serve.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+        </SelectedSymbols>
+    </Project>
+</JScopeProject>

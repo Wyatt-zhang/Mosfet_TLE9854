@@ -1,0 +1,14 @@
+.\objects\uart.o: RTE\Device\TLE9854QX\uart.c
+.\objects\uart.o: RTE\Device\TLE9854QX\uart.h
+.\objects\uart.o: RTE\Device\TLE9854QX\tle985x.h
+.\objects\uart.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h
+.\objects\uart.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\uart.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\uart.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\uart.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\uart.o: RTE\Device\TLE9854QX\system_TLE985x.h
+.\objects\uart.o: RTE\Device\TLE9854QX\types.h
+.\objects\uart.o: RTE\Device\TLE9854QX\sfr_access.h
+.\objects\uart.o: RTE\Device\TLE9854QX\uart_defines.h
+.\objects\uart.o: RTE\Device\TLE9854QX\wdt1.h
+.\objects\uart.o: RTE\Device\TLE9854QX\scu_defines.h

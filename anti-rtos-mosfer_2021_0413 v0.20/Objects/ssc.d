@@ -1,0 +1,11 @@
+.\objects\ssc.o: RTE\Device\TLE9854QX\ssc.c
+.\objects\ssc.o: RTE\Device\TLE9854QX\ssc.h
+.\objects\ssc.o: RTE\Device\TLE9854QX\tle985x.h
+.\objects\ssc.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0.h
+.\objects\ssc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ssc.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\objects\ssc.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\objects\ssc.o: RTE\Device\TLE9854QX\system_TLE985x.h
+.\objects\ssc.o: RTE\Device\TLE9854QX\types.h
+.\objects\ssc.o: RTE\Device\TLE9854QX\sfr_access.h
+.\objects\ssc.o: RTE\Device\TLE9854QX\ssc_defines.h

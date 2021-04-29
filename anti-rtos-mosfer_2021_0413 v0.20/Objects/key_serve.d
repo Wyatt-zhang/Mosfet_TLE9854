@@ -1,0 +1,34 @@
+.\objects\key_serve.o: wyattEdit\SRC\Key_Serve.c
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\tle_device.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\tle_variants.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\TLE985x.h
+.\objects\key_serve.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h
+.\objects\key_serve.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\key_serve.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\key_serve.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\key_serve.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\system_TLE985x.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\types.h
+.\objects\key_serve.o: .\RTE\_Mosfet\RTE_Components.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\bootrom.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\sfr_access.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\wdt1.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\scu.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\pmu.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\adc1.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\adc2.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\bdrv.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\ccu6.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\ccu6_defines.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\gpt12e.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\int.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\isr.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\lin.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\port.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\cmsis_misra.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\uart.h
+.\objects\key_serve.o: .\RTE\Device\TLE9854QX\uart_defines.h
+.\objects\key_serve.o: .\wyattEdit\INC\Motor_Parameter.h
+.\objects\key_serve.o: .\wyattEdit\INC\Key_Serve.h
+.\objects\key_serve.o: ..\anti-rtos-mosfer_2021_0413 v0.20\Method_Serve.h
+.\objects\key_serve.o: ..\anti-rtos-mosfer_2021_0413 v0.20\MyAdc_Serve.h

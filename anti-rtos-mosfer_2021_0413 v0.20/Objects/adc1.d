@@ -1,0 +1,16 @@
+.\objects\adc1.o: RTE\Device\TLE9854QX\adc1.c
+.\objects\adc1.o: RTE\Device\TLE9854QX\adc1.h
+.\objects\adc1.o: RTE\Device\TLE9854QX\tle985x.h
+.\objects\adc1.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h
+.\objects\adc1.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\adc1.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\adc1.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\adc1.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\adc1.o: RTE\Device\TLE9854QX\system_TLE985x.h
+.\objects\adc1.o: RTE\Device\TLE9854QX\types.h
+.\objects\adc1.o: RTE\Device\TLE9854QX\sfr_access.h
+.\objects\adc1.o: RTE\Device\TLE9854QX\wdt1.h
+.\objects\adc1.o: RTE\Device\TLE9854QX\int.h
+.\objects\adc1.o: RTE\Device\TLE9854QX\scu.h
+.\objects\adc1.o: RTE\Device\TLE9854QX\bootrom.h
+.\objects\adc1.o: RTE\Device\TLE9854QX\adc1_defines.h

@@ -1,0 +1,15 @@
+.\objects\lin_protocol.o: lin_driver\lin_protocol.c
+.\objects\lin_protocol.o: lin_driver\lin_protocol.h
+.\objects\lin_protocol.o: lin_driver\lin_config.h
+.\objects\lin_protocol.o: lin_driver\lin_hal.h
+.\objects\lin_protocol.o: .\RTE\Device\TLE9854QX\TLE985x.h
+.\objects\lin_protocol.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h
+.\objects\lin_protocol.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lin_protocol.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\lin_protocol.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\lin_protocol.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\lin_protocol.o: .\RTE\Device\TLE9854QX\system_TLE985x.h
+.\objects\lin_protocol.o: .\RTE\Device\TLE9854QX\types.h
+.\objects\lin_protocol.o: lin_driver\lin_il.h
+.\objects\lin_protocol.o: lin_driver\lin_tl_protocol.h
+.\objects\lin_protocol.o: lin_driver\lin_diagnostic_support.h

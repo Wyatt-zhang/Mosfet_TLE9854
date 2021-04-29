@@ -1,0 +1,14 @@
+.\objects\pmu.o: RTE\Device\TLE9854QX\pmu.c
+.\objects\pmu.o: RTE\Device\TLE9854QX\pmu.h
+.\objects\pmu.o: RTE\Device\TLE9854QX\tle985x.h
+.\objects\pmu.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm0.h
+.\objects\pmu.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\pmu.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\pmu.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\pmu.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\pmu.o: RTE\Device\TLE9854QX\system_TLE985x.h
+.\objects\pmu.o: RTE\Device\TLE9854QX\types.h
+.\objects\pmu.o: RTE\Device\TLE9854QX\sfr_access.h
+.\objects\pmu.o: RTE\Device\TLE9854QX\wdt1.h
+.\objects\pmu.o: RTE\Device\TLE9854QX\pmu_defines.h
+.\objects\pmu.o: RTE\Device\TLE9854QX\cmsis_misra.h

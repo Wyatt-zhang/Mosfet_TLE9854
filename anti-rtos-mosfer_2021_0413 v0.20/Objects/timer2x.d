@@ -1,0 +1,12 @@
+.\objects\timer2x.o: RTE\Device\TLE9854QX\timer2x.c
+.\objects\timer2x.o: RTE\Device\TLE9854QX\timer2x.h
+.\objects\timer2x.o: RTE\Device\TLE9854QX\tle985x.h
+.\objects\timer2x.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm0.h
+.\objects\timer2x.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\timer2x.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\objects\timer2x.o: d:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\objects\timer2x.o: RTE\Device\TLE9854QX\system_TLE985x.h
+.\objects\timer2x.o: RTE\Device\TLE9854QX\types.h
+.\objects\timer2x.o: RTE\Device\TLE9854QX\sfr_access.h
+.\objects\timer2x.o: RTE\Device\TLE9854QX\timer2x_defines.h
+.\objects\timer2x.o: RTE\Device\TLE9854QX\scu_defines.h

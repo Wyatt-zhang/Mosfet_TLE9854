@@ -1,0 +1,12 @@
+IFXConfigWizard_Version	V2.1.8
+Config_File				ICW_TLE985x.xml
+Config_File_Version 	V0.0.4
+UART1.Configuration_En	
+UART2.Configuration_En	
+UART1.AUTO_BAUD_SEL	
+UART2.AUTO_BAUD_SEL	
+UART2.PINSEL_EN	
+SSC1.TEMP_BRG	
+SSC2.TEMP_BRG	
+SSC1.AUTO_BAUD_SEL	
+SSC2.AUTO_BAUD_SEL	
